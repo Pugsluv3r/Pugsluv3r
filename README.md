@@ -11,3 +11,5 @@
 <div>
 <h3>Contact: jordanlovespugs [discord] </h3>
 </div>
+<h1 align="center">Breeze V2 and updates?</h1>
+<h5>as of now i do not plan to update breeze other than for if the menu breaks</h5>
